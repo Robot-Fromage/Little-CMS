@@ -17,8 +17,6 @@ project( Little-CMS C )
 
 #--------------------------------------------
 # Add projects
-cmake_minimum_required( VERSION 3.13.2 )
-
 file(
     GLOB_RECURSE
     source_list
